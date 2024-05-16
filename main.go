@@ -12,7 +12,7 @@ import (
 )
 
 func main() {
-	// step 0. get eth-rpc and trpc endpoint
+	// step 0. get eth-rpc op stack and trpc endpoint
 	ethEndpoint := "https://rpc.opcelestia-raspberry.gelato.digital"
 	trpcEndpoint := "https://celestia-mocha-rpc.publicnode.com:443"
 
